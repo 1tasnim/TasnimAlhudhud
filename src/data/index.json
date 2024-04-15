@@ -1,0 +1,53 @@
+{
+    "Skills":[
+      {
+        "id" : "1",
+        "src": "../img/front-end-programming.png",
+        "title": "Front-End",
+        "description":"HTML , CSS , JS , Bootstrap , React"
+      },
+      {
+        "id" : "2",
+        "src": "../img/ux-design (3).png",
+        "title": "UI/UX Design",
+        "description":" Adobe XD , Figma"
+      },
+      {
+        "src":"../img/ux-design (4).png",
+        "id" : "3",
+        "title": "Graphic Design",
+        "description":"Adobe Illustrator"
+      }
+    ],
+
+    "portfolio":[
+      {
+        "id" : "1",
+        "src": "../img/photo_5825604898136376958_y.jpg",
+        "title": "Login Form",
+        "description":"Using HTML CSS & JavaScript",
+        "link": " View In GitHub",
+        "link1": "https://1tasnim.github.io/SIGN-UP/"
+      },
+      {
+        "id" : "2",
+        "src": "../img/photo_5825604898136376962_y.jpg",
+        "title": "Simple Calculator",
+        "description":"Using HTML CSS & JavaScript",
+        "link": " View In GitHub",
+        "link1": " https://1tasnim.github.io/Calculator/"
+      },
+      {
+        "src":"../img/photo_5796661281032356947_y.jpg",
+        "id" : "3",
+        "title": "Flight Booking App ",
+        "description":"UI Design | Adobe XD",
+        "link": " View In Behance",
+        "link1": "https://www.behance.net/gallery/195468539/ui-design"
+      }
+    
+    ]
+    
+}
+
+
